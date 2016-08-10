@@ -1,5 +1,4 @@
-﻿
-namespace PagedCollection.ConsoleApp
+﻿namespace PagedCollection.ConsoleApp
 {
     internal class Person
     {
