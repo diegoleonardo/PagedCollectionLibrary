@@ -1,0 +1,8 @@
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\bin\Debug\PagedCollection.ConsoleApp.exe.config
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\bin\Debug\PagedCollection.ConsoleApp.exe
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\bin\Debug\PagedCollection.ConsoleApp.pdb
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\bin\Debug\PagedCollection.Library.dll
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\bin\Debug\PagedCollection.Library.pdb
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\obj\Debug\PagedCollection.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\obj\Debug\PagedCollection.ConsoleApp.exe
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.ConsoleApp\obj\Debug\PagedCollection.ConsoleApp.pdb

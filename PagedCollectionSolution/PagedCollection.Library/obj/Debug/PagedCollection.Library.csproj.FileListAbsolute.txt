@@ -1,0 +1,5 @@
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.Library\bin\Debug\PagedCollection.Library.dll
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.Library\bin\Debug\PagedCollection.Library.pdb
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.Library\obj\Debug\PagedCollection.Library.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.Library\obj\Debug\PagedCollection.Library.dll
+C:\Users\diego\Documents\Github\PagedCollectionLibrary\PagedCollectionSolution\PagedCollection.Library\obj\Debug\PagedCollection.Library.pdb
